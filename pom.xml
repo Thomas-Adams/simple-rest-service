@@ -16,7 +16,7 @@
 		</project.reporting.outputEncoding>
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
-		<cxf.version>3.3.5</cxf.version>
+		<cxf.version>3.4.10</cxf.version>
 		<org.projectlombok.version>1.18.12</org.projectlombok.version>
 		<org.slf4j.version>1.7.26</org.slf4j.version>
 		<log4j.version>2.13.0</log4j.version>
